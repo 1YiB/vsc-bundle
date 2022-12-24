@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "displayName": "nodejs-bundle",
+  "description": "null",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "standard.vscode-standard",
+    "rvest.vs-code-prettier-eslint",
+    "yatki.vscode-surround",
+    "1YiB.svelte-bundle"
+  ],
+  "license": "LICENCE"
+}

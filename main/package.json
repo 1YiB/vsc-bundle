@@ -1,0 +1,19 @@
+{
+  "name": "main",
+  "displayName": "main-bundle",
+  "description": "",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "1YiB.vscode-bundle",
+    "1YiB.nodejs-bundle",
+    "1YiB.svelte-bundle",
+    "1YiB.python-bundle",
+    "1YiB.rust-bundle"
+  ]
+}

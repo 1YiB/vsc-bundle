@@ -1,0 +1,17 @@
+{
+  "name": "python",
+  "displayName": "python-bundle",
+  "description": "",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-python.python",
+    "EricSia.pythonsnippets3",
+    "njpwerner.autodocstring"
+  ]
+}

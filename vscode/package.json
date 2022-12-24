@@ -1,0 +1,25 @@
+{
+  "name": "vscode-bundle",
+  "displayName": "vscode",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "bobsparadox.seti-black",
+    "Equinusocio.moxer-icons",
+    "miguelsolorio.fluent-icons",
+    "usernamehw.errorlens",
+    "BriteSnow.vscode-toggle-quotes",
+    "oderwat.indent-rainbow",
+    "christian-kohler.path-intellisense",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "VisualStudioExptTeam.intellicode-api-usage-examples",
+    "tamasfe.even-better-toml",
+    "ClemensPeters.format-json",
+    "bierner.markdown-preview-github-styles"
+  ]
+}

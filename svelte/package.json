@@ -1,0 +1,17 @@
+{
+  "name": "svelte-bundle",
+  "displayName": "svelte",
+  "description": "",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "svelte.svelte-vscode",
+    "ardenivanov.svelte-intellisense",
+    "fivethree.vscode-svelte-snippets"
+  ]
+}

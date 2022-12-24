@@ -1,0 +1,17 @@
+{
+  "name": "rust-bundle",
+  "displayName": "rust",
+  "description": "",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "rust-lang.rust-analyzer",
+    "serayuzgur.crates",
+    "dustypomerleau.rust-syntax"
+  ]
+}
