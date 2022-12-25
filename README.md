@@ -8,14 +8,18 @@
     ·
     <a href="#dev">contribute</a>
 </h6>
+<div align="center">
 
+![GitHub](https://img.shields.io/github/license/1yib/vsc-bundle?color=A3BE8C&style=flat-square)
+
+</div>
 
 ### about
 
 - vsc-bundle is a monorepo for 6 extension packs.
 
     - main
-        - all of the extensions given below.
+        - extension pack of all the extensions given below.
 
     - rust
         - extensions for [`rust-lang`](https://rust-lang.org)

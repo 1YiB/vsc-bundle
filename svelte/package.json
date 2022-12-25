@@ -1,17 +1,30 @@
 {
   "name": "svelte-bundle",
   "displayName": "svelte",
-  "description": "",
   "version": "1.0.0",
-  "engines": {
-    "vscode": "^1.74.0"
-  },
+  "publisher": "1YiB",
+  "description": "extensions for svelte",
   "categories": [
     "Extension Packs"
   ],
+  "icon": "svelte/assets/icon.png",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
   "extensionPack": [
     "svelte.svelte-vscode",
     "ardenivanov.svelte-intellisense",
     "fivethree.vscode-svelte-snippets"
-  ]
+  ],
+  "license": "LICENSE",
+  "markdown": "github",
+  "bugs": {
+    "url": "https://github.com/1YiB/vsc-bundle/issues",
+    "email": "1YiB@proton.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1YiB/vsc-bundle"
+  },
+  "homepage": "https://github.com/1YiB/vsc-bundle/tree/main/svelte"
 }

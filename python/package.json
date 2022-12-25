@@ -1,17 +1,30 @@
 {
   "name": "python",
   "displayName": "python-bundle",
-  "description": "",
   "version": "1.0.0",
-  "engines": {
-    "vscode": "^1.74.0"
-  },
+  "publisher": "1YiB",
+  "description": "extensions for python",
   "categories": [
     "Extension Packs"
   ],
+  "icon": "python/assets/icon.png",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
   "extensionPack": [
     "ms-python.python",
     "EricSia.pythonsnippets3",
     "njpwerner.autodocstring"
-  ]
+  ],
+  "license": "LICENSE",
+  "markdown": "github",
+  "bugs": {
+    "url": "https://github.com/1YiB/vsc-bundle/issues",
+    "email": "1YiB@proton.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1YiB/vsc-bundle"
+  },
+  "homepage": "https://github.com/1YiB/vsc-bundle/tree/main/python"
 }

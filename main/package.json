@@ -1,19 +1,32 @@
 {
   "name": "main",
   "displayName": "main-bundle",
-  "description": "",
   "version": "1.0.0",
-  "engines": {
-    "vscode": "^1.74.0"
-  },
+  "publisher": "1YiB",
+  "description": "nested extension pack",
   "categories": [
     "Extension Packs"
   ],
+  "icon": "main/assets/icon.png",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
   "extensionPack": [
     "1YiB.vscode-bundle",
     "1YiB.nodejs-bundle",
     "1YiB.svelte-bundle",
     "1YiB.python-bundle",
     "1YiB.rust-bundle"
-  ]
+  ],
+  "license": "LICENSE",
+  "markdown": "github",
+  "bugs": {
+    "url": "https://github.com/1YiB/vsc-bundle/issues",
+    "email": "1YiB@proton.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1YiB/vsc-bundle"
+  },
+  "homepage": "https://github.com/1YiB/vsc-bundle/tree/main/main"
 }

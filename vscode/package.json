@@ -2,12 +2,15 @@
   "name": "vscode-bundle",
   "displayName": "vscode",
   "version": "1.0.0",
-  "engines": {
-    "vscode": "^1.74.0"
-  },
+  "publisher": "1YiB",
+  "description": "extensions for vscode",
   "categories": [
     "Extension Packs"
   ],
+  "icon": "vscode/assets/icon.png",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
   "extensionPack": [
     "bobsparadox.seti-black",
     "Equinusocio.moxer-icons",
@@ -20,6 +23,19 @@
     "VisualStudioExptTeam.intellicode-api-usage-examples",
     "tamasfe.even-better-toml",
     "ClemensPeters.format-json",
-    "bierner.markdown-preview-github-styles"
-  ]
+    "jock.svg",
+    "bierner.markdown-preview-github-styles",
+    "bierner.markdown-checkbox"
+  ],
+  "license": "LICENSE",
+  "markdown": "github",
+  "bugs": {
+    "url": "https://github.com/1YiB/vsc-bundle/issues",
+    "email": "1YiB@proton.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1YiB/vsc-bundle"
+  },
+  "homepage": "https://github.com/1YiB/vsc-bundle/tree/main/vscode"
 }

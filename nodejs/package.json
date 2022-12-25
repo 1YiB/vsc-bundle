@@ -1,19 +1,32 @@
 {
   "name": "nodejs",
   "displayName": "nodejs-bundle",
-  "description": "null",
   "version": "1.0.0",
-  "engines": {
-    "vscode": "^1.74.0"
-  },
+  "publisher": "1YiB",
+  "description": "null",
   "categories": [
     "Extension Packs"
   ],
+  "icon": "nodejs/assets/icon.png",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
   "extensionPack": [
     "standard.vscode-standard",
     "rvest.vs-code-prettier-eslint",
     "yatki.vscode-surround",
+    "jock.svg",
     "1YiB.svelte-bundle"
   ],
-  "license": "LICENCE"
+  "license": "LICENSE",
+  "markdown": "github",
+  "bugs": {
+    "url": "https://github.com/1YiB/vsc-bundle/issues",
+    "email": "1YiB@proton.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1YiB/vsc-bundle"
+  },
+  "homepage": "https://github.com/1YiB/vsc-bundle/tree/main/nodejs"
 }

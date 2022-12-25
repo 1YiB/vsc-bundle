@@ -1,17 +1,30 @@
 {
-  "name": "rust-bundle",
-  "displayName": "rust",
-  "description": "",
+  "name": "rust",
+  "displayName": "rust-bundle",
   "version": "1.0.0",
-  "engines": {
-    "vscode": "^1.74.0"
-  },
+  "publisher": "1YiB",
+  "description": "extensions for rust",
   "categories": [
     "Extension Packs"
   ],
+  "icon": "rust/assets/icon.png",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
   "extensionPack": [
     "rust-lang.rust-analyzer",
     "serayuzgur.crates",
     "dustypomerleau.rust-syntax"
-  ]
+  ],
+  "license": "LICENSE",
+  "markdown": "github",
+  "bugs": {
+    "url": "https://github.com/1YiB/vsc-bundle/issues",
+    "email": "1YiB@proton.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1YiB/vsc-bundle"
+  },
+  "homepage": "https://github.com/1YiB/vsc-bundle/tree/main/rust"
 }
