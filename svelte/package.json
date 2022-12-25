@@ -8,6 +8,10 @@
     "Extension Packs"
   ],
   "icon": "svelte/assets/icon.png",
+  "galleryBanner": {
+    "color": "#FF3E00",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },

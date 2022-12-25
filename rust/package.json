@@ -8,6 +8,10 @@
     "Extension Packs"
   ],
   "icon": "rust/assets/icon.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },

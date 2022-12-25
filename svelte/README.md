@@ -1,16 +1,44 @@
-# svelte-bundle README
+<h3 align="center">
+    svelte-bundle
+</h3>
+<h6 align="center">
+    <a href="#about">about</a>
+    ·
+    <a href="#install">install</a>
+    ·
+    <a href="#dev">contribute</a>
+</h6>
+<div align="center">
 
-## Working with Markdown
+</div>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+### about
 
-## For more information
+- svelte
+    - includes the following extensions:
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy!**
+        | Extension                        	| Stats                                                                                                                                                    	|
+        |----------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------	|
+        | `svelte.svelte-vscode`             	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs/svelte.svelte-vscode.svg?&logo=visualstudiocode&color=A3BE8C)             	|
+        | `ardenivanov.svelte-intellisense`  	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs/ardenivanov.svelte-intellisense.svg?&logo=visualstudiocode&color=A3BE8C)  	|
+        | `fivethree.vscode-svelte-snippets` 	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs/fivethree.vscode-svelte-snippets.svg?&logo=visualstudiocode&color=A3BE8C) 	|
+
+<br />
+
+
+### install
+
+1. press: <kbd>Ctrl + P</kbd>
+
+2. type `ext install 1YiB.svelte-bundle`
+
+3. press <kbd>Enter</kbd>
+
+### contribute
+
+- repo: [`url`](https://github.com/1YiB/vsc-bundle/tree/main/svelte)
+- suggest extensions to add in the form of issues
+
+- create pull request for adding extensions

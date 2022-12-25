@@ -54,32 +54,44 @@
 ```
 🗀 vsc-bundle
 ├── 🗀 main
+│   ├── 🗀 assets
+│   │   └── 🖻 icon.png
 │   ├── 🖹 LICENSE
 │   ├── 🗎 package.json
 │   └── ▼ README.md
 │   └── 🗋 .vscodeignore
 ├── 🗀 nodejs
+│   ├── 🗀 assets
+│   │   └── 🖻 icon.png
 │   ├── 🖹 LICENSE
 │   ├── 🗎 package.json
 │   └── ▼ README.md
 │   └── 🗋 .vscodeignore
 ├── 🗀 python
+│   ├── 🗀 assets
+│   │   └── 🖻 icon.png
 │   ├── 🖹 LICENSE
 │   ├── 🗎 package.json
 │   └── ▼ README.md
 │   └── 🗋 .vscodeignore
 ├── ▼ README.md
 ├── 🗀 rust
+│   ├── 🗀 assets
+│   │   └── 🖻 icon.png
 │   ├── 🖹 LICENSE
 │   ├── 🗎 package.json
 │   └── ▼ README.md
 │   └── 🗋 .vscodeignore
 ├── 🗀 svelte
+│   ├── 🗀 assets
+│   │   └── 🖻 icon.png
 │   ├── 🖹 LICENSE
 │   ├── 🗎 package.json
 │   └── ▼ README.md
 │   └── 🗋 .vscodeignore
 └── 🗀 vscode
+│   ├── 🗀 assets
+│   │   └── 🖻 icon.png
     ├── 🖹 LICENSE
     ├── 🗎 package.json
     └── ▼ README.md

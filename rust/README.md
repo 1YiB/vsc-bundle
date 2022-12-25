@@ -1,16 +1,44 @@
-# rust README
+<h3 align="center">
+    rust-bundle
+</h3>
+<h6 align="center">
+    <a href="#about">about</a>
+    ·
+    <a href="#install">install</a>
+    ·
+    <a href="#dev">contribute</a>
+</h6>
+<div align="center">
 
-## Working with Markdown
+</div>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+### about
 
-## For more information
+- rust
+    - includes the following extensions:
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy!**
+        | Extension               	| Stats                                                                                                                                           	|
+        |-------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------	|
+        | `rust-lang.rust-analyzer` 	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs/rust-lang.rust-analyzer.svg?&logo=visualstudiocode&color=A3BE8C) 	|
+        | `serayuzgur.crates`       	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs/serayuzgur.crates.svg?&logo=visualstudiocode&color=A3BE8C)       	|
+        | `njpwerner.autodocstring` 	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs/njpwerner.autodocstring.svg?&logo=visualstudiocode&color=A3BE8C) 	|
+
+<br />
+
+
+### install
+
+1. press: <kbd>Ctrl + P</kbd>
+
+2. type `ext install 1YiB.rust-bundle`
+
+3. press <kbd>Enter</kbd>
+
+### contribute
+
+- repo: [`url`](https://github.com/1YiB/vsc-bundle/tree/main/rust)
+- suggest extensions to add in the form of issues
+
+- create pull request for adding extensions

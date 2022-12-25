@@ -8,6 +8,10 @@
     "Extension Packs"
   ],
   "icon": "nodejs/assets/icon.png",
+  "galleryBanner": {
+    "color": "#339933",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },

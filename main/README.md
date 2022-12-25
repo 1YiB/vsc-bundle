@@ -11,24 +11,25 @@
 <div align="center">
 
 ![GitHub](https://img.shields.io/github/license/1yib/vsc-bundle?color=A3BE8C&style=flat-square)
-
+![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/1YiB/main-bundle?color=A3BE8C&style=flat-square)
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/1YiB/main-bundle?color=%23A3BE8C&style=flat-square)
 </div>
 
-### about
 
+### about
 
 - main
     - extension pack of all the extensions given below.
 
-    - rust
+    - [rust](https://marketplace.visualstudio.com/items?itemName=1YiB.rust-bundle)
         - extensions for [`rust-lang`](https://rust-lang.org)
-    - nodejs
+    - [nodejs](https://marketplace.visualstudio.com/items?itemName=1YiB.nodejs-bundle)
         - extension for [`js`](https://nodejs.org/en ) / [`ts`](https://www.typescriptlang.org/)
-    - svelte
+    - [svelte](https://marketplace.visualstudio.com/items?itemName=1YiB.svelte-bundle)
         - extensions for [`svelte`](https://svelte.dev)
-    - python
+    - [python](https://marketplace.visualstudio.com/items?itemName=1YiB.python-bundle)
         - extensions for [`python`](https://www.python.org)
-    - vscode
+    - [vscode](https://marketplace.visualstudio.com/items?itemName=1YiB.vscode-bundle)
         - extensions for general purpose use on [`vscode`](vscode:)
 
 <br />
@@ -44,7 +45,7 @@
 
 ### contribute
 
-- repo: [`url`](https://github.com/1YiB/vsc-bundle/main/main)
+- repo: [`url`](https://github.com/1YiB/vsc-bundle/tree/main/main)
 - suggest extensions to add in the form of issues
 
 - create pull request for adding extensions

@@ -8,6 +8,10 @@
     "Extension Packs"
   ],
   "icon": "python/assets/icon.png",
+  "galleryBanner": {
+    "color": "#3776AB",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
