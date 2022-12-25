@@ -10,6 +10,10 @@
 </h6>
 <div align="center">
 
+![GitHub](https://img.shields.io/github/license/1yib/vsc-bundle?color=A3BE8C&style=flat-square)
+![Installs](https://vsmarketplacebadges.dev/installs-short/1YIB.python-bundle.svg?&logo=visualstudiocode&color=A3BE8C)
+![Version](https://vsmarketplacebadges.dev/version-short/1YiB.python-bundle.svg?&logo=visualstudiocode&color=A3BE8C&label=version)
+
 </div>
 
 
@@ -21,9 +25,9 @@
 
         | Extension               	| Stats                                                                                                                                           	|
         |-------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------	|
-        | `ms-python.python`        	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs/ms-python.python.svg?&logo=visualstudiocode&color=A3BE8C)        	|
-        | `EricSia.pythonsnippets3` 	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs/EricSia.pythonsnippets3.svg?&logo=visualstudiocode&color=A3BE8C) 	|
-        | `njpwerner.autodocstring` 	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs/njpwerner.autodocstring.svg?&logo=visualstudiocode&color=A3BE8C) 	|
+        | `ms-python.python`        	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/ms-python.python.svg?&logo=visualstudiocode&color=A3BE8C)        	|
+        | `EricSia.pythonsnippets3` 	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/EricSia.pythonsnippets3.svg?&logo=visualstudiocode&color=A3BE8C) 	|
+        | `njpwerner.autodocstring` 	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/njpwerner.autodocstring.svg?&logo=visualstudiocode&color=A3BE8C) 	|
 
 <br />
 

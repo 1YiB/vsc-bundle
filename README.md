@@ -11,6 +11,8 @@
 <div align="center">
 
 ![GitHub](https://img.shields.io/github/license/1yib/vsc-bundle?color=A3BE8C&style=flat-square)
+![Installs](https://vsmarketplacebadges.dev/installs-short/1YIB.main-bundle.svg?&logo=visualstudiocode&color=A3BE8C)
+![Version](https://vsmarketplacebadges.dev/version-short/1YiB.main-bundle.svg?&logo=visualstudiocode&color=A3BE8C&label=version)
 
 </div>
 

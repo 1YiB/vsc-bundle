@@ -10,6 +10,10 @@
 </h6>
 <div align="center">
 
+![GitHub](https://img.shields.io/github/license/1yib/vsc-bundle?color=A3BE8C&style=flat-square)
+![Installs](https://vsmarketplacebadges.dev/installs-short/1YIB.svelte-bundle.svg?&logo=visualstudiocode&color=A3BE8C)
+![Version](https://vsmarketplacebadges.dev/version-short/1YiB.svelte-bundle.svg?&logo=visualstudiocode&color=A3BE8C&label=version)
+
 </div>
 
 
@@ -21,9 +25,9 @@
 
         | Extension                        	| Stats                                                                                                                                                    	|
         |----------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------	|
-        | `svelte.svelte-vscode`             	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs/svelte.svelte-vscode.svg?&logo=visualstudiocode&color=A3BE8C)             	|
-        | `ardenivanov.svelte-intellisense`  	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs/ardenivanov.svelte-intellisense.svg?&logo=visualstudiocode&color=A3BE8C)  	|
-        | `fivethree.vscode-svelte-snippets` 	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs/fivethree.vscode-svelte-snippets.svg?&logo=visualstudiocode&color=A3BE8C) 	|
+        | `svelte.svelte-vscode`             	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/svelte.svelte-vscode.svg?&logo=visualstudiocode&color=A3BE8C)             	|
+        | `ardenivanov.svelte-intellisense`  	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/ardenivanov.svelte-intellisense.svg?&logo=visualstudiocode&color=A3BE8C)  	|
+        | `fivethree.vscode-svelte-snippets` 	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/fivethree.vscode-svelte-snippets.svg?&logo=visualstudiocode&color=A3BE8C) 	|
 
 <br />
 

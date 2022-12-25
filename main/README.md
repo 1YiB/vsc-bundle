@@ -11,8 +11,9 @@
 <div align="center">
 
 ![GitHub](https://img.shields.io/github/license/1yib/vsc-bundle?color=A3BE8C&style=flat-square)
-![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/1YiB/main-bundle?color=A3BE8C&style=flat-square)
-![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/1YiB/main-bundle?color=%23A3BE8C&style=flat-square)
+![Installs](https://vsmarketplacebadges.dev/installs-short/1YIB.main-bundle.svg?&logo=visualstudiocode&color=A3BE8C)
+![Version](https://vsmarketplacebadges.dev/version-short/1YiB.main-bundle.svg?&logo=visualstudiocode&color=A3BE8C&label=version)
+
 </div>
 
 

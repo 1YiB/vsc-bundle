@@ -10,6 +10,9 @@
 </h6>
 <div align="center">
 
+![GitHub](https://img.shields.io/github/license/1yib/vsc-bundle?color=A3BE8C&style=flat-square)
+![Installs](https://vsmarketplacebadges.dev/installs-short/1YIB.vscode-bundle.svg?&logo=visualstudiocode&color=A3BE8C)
+![Version](https://vsmarketplacebadges.dev/version-short/1YiB.vscode-bundle.svg?&logo=visualstudiocode&color=A3BE8C&label=version)
 
 </div>
 
@@ -21,19 +24,19 @@
 
         | Extension                        	| Stats                                                                                                                                                    	|
         |----------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------	|
-        | `bobsparadox.seti-black` |  ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs/bobsparadox.seti-black.svg?&logo=visualstudiocode&color=A3BE8C) |
-        | `Equinusocio.moxer-icons` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs/Equinusocio.moxer-icons.svg?&logo=visualstudiocode&color=A3BE8C) |
-        | `miguelsolorio.fluent-icons` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs/miguelsolorio.fluent-icons.svg?&logo=visualstudiocode&color=A3BE8C) |
-        | `usernamehw.errorlens` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs/usernamehw.errorlens.svg?&logo=visualstudiocode&color=A3BE8C) |
-        | `BriteSnow.vscode-toggle-quotes` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs/BriteSnow.vscode-toggle-quotes.svg?&logo=visualstudiocode&color=A3BE8C) |
-        | `oderwat.indent-rainbow` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs/oderwat.indent-rainbow.svg?&logo=visualstudiocode&color=A3BE8C) |
-        | `christian-kohler.path-intellisense` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs/christian-kohler.path-intellisense.svg?&logo=visualstudiocode&color=A3BE8C) |
-        | `VisualStudioExptTeam.vscodeintellicode` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs/VisualStudioExptTeam.vscodeintellicode.svg?&logo=visualstudiocode&color=A3BE8C) |
-        | `VisualStudioExptTeam.intellicode-api-usage-examples` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs/VisualStudioExptTeam.intellicode-api-usage-examples.svg?&logo=visualstudiocode&color=A3BE8C) |
-        | `tamasfe.even-better-toml` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs/tamasfe.even-better-toml.svg?&logo=visualstudiocode&color=A3BE8C) |
-        | `ClemensPeters.format-json` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs/ClemensPeters.format-json.svg?&logo=visualstudiocode&color=A3BE8C) |
-        | `bierner.markdown-preview-github-styles` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs/bierner.markdown-preview-github-styles.svg?&logo=visualstudiocode&color=A3BE8C) |
-        | `bierner.markdown-checkbox` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs/bierner.markdown-checkbox.svg?&logo=visualstudiocode&color=A3BE8C) |
+        | `bobsparadox.seti-black` |  ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/bobsparadox.seti-black.svg?&logo=visualstudiocode&color=A3BE8C) |
+        | `Equinusocio.moxer-icons` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/Equinusocio.moxer-icons.svg?&logo=visualstudiocode&color=A3BE8C) |
+        | `miguelsolorio.fluent-icons` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/miguelsolorio.fluent-icons.svg?&logo=visualstudiocode&color=A3BE8C) |
+        | `usernamehw.errorlens` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/usernamehw.errorlens.svg?&logo=visualstudiocode&color=A3BE8C) |
+        | `BriteSnow.vscode-toggle-quotes` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/BriteSnow.vscode-toggle-quotes.svg?&logo=visualstudiocode&color=A3BE8C) |
+        | `oderwat.indent-rainbow` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/oderwat.indent-rainbow.svg?&logo=visualstudiocode&color=A3BE8C) |
+        | `christian-kohler.path-intellisense` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/christian-kohler.path-intellisense.svg?&logo=visualstudiocode&color=A3BE8C) |
+        | `VisualStudioExptTeam.vscodeintellicode` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/VisualStudioExptTeam.vscodeintellicode.svg?&logo=visualstudiocode&color=A3BE8C) |
+        | `VisualStudioExptTeam.intellicode-api-usage-examples` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/VisualStudioExptTeam.intellicode-api-usage-examples.svg?&logo=visualstudiocode&color=A3BE8C) |
+        | `tamasfe.even-better-toml` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/tamasfe.even-better-toml.svg?&logo=visualstudiocode&color=A3BE8C) |
+        | `ClemensPeters.format-json` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/ClemensPeters.format-json.svg?&logo=visualstudiocode&color=A3BE8C) |
+        | `bierner.markdown-preview-github-styles` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/bierner.markdown-preview-github-styles.svg?&logo=visualstudiocode&color=A3BE8C) |
+        | `bierner.markdown-checkbox` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/bierner.markdown-checkbox.svg?&logo=visualstudiocode&color=A3BE8C) |
 
 <br />
 

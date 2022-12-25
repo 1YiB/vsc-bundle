@@ -10,6 +10,11 @@
 </h6>
 <div align="center">
 
+
+![GitHub](https://img.shields.io/github/license/1yib/vsc-bundle?color=A3BE8C&style=flat-square)
+![Installs](https://vsmarketplacebadges.dev/installs-short/1YIB.python-bundle.svg?&logo=visualstudiocode&color=A3BE8C)
+![Version](https://vsmarketplacebadges.dev/version-short/1YiB.python-bundle.svg?&logo=visualstudiocode&color=A3BE8C&label=version)
+
 </div>
 
 
@@ -21,9 +26,9 @@
 
         | Extension               	| Stats                                                                                                                                           	|
         |-------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------	|
-        | `rust-lang.rust-analyzer` 	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs/rust-lang.rust-analyzer.svg?&logo=visualstudiocode&color=A3BE8C) 	|
-        | `serayuzgur.crates`       	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs/serayuzgur.crates.svg?&logo=visualstudiocode&color=A3BE8C)       	|
-        | `njpwerner.autodocstring` 	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs/njpwerner.autodocstring.svg?&logo=visualstudiocode&color=A3BE8C) 	|
+        | `rust-lang.rust-analyzer` 	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/rust-lang.rust-analyzer.svg?&logo=visualstudiocode&color=A3BE8C) 	|
+        | `serayuzgur.crates`       	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/serayuzgur.crates.svg?&logo=visualstudiocode&color=A3BE8C)       	|
+        | `njpwerner.autodocstring` 	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/njpwerner.autodocstring.svg?&logo=visualstudiocode&color=A3BE8C) 	|
 
 <br />
 
