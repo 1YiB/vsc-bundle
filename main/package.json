@@ -1,13 +1,13 @@
 {
-  "name": "main",
-  "displayName": "main-bundle",
+  "name": "main-bundle",
+  "displayName": "main",
   "version": "1.0.0",
   "publisher": "1YiB",
   "description": "nested extension pack",
   "categories": [
     "Extension Packs"
   ],
-  "icon": "main/assets/icon.png",
+  "icon": "assets/icon.png",
   "galleryBanner": {
     "color": "#212121",
     "theme": "dark"

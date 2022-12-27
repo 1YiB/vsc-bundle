@@ -19,18 +19,16 @@
 
 ### about
 
-- nodejs
-    - includes the following extensions:
+- bundle of nodejs extensions for better development , all extensions packaged are given below.
 
 
-        |                     Extension 	| Stats                                                                                                                                                                           	|
-        |------------------------------:	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-        | `standard.vscode-standard`      	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/standard.vscode-standard.svg?&logo=visualstudiocode&color=A3BE8C)      	|
-        | `rvest.vs-code-prettier-eslint` 	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/rvest.vs-code-prettier-eslint.svg?&logo=visualstudiocode&color=A3BE8C) 	|
-        | `yatki.vscode-surround`         	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/yatki.vscode-surround.svg?&logo=visualstudiocode&color=A3BE8C)         	|
-        | `jock.svg`                      	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/jock.svg.svg?&logo=visualstudiocode&color=A3BE8C)                      	|
-        | `1YiB.svelte-bundle`            	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/1YiB.svelte-bundle-surround.svg?&logo=visualstudiocode&color=A3BE8C)   	|
-
+| Extension | Stats |
+|---|---|
+| `standard.vscode-standard` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/standard.vscode-standard.svg?&logo=visualstudiocode&color=A3BE8C) |
+| `rvest.vs-code-prettier-eslint` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/rvest.vs-code-prettier-eslint.svg?&logo=visualstudiocode&color=A3BE8C) |
+| `yatki.vscode-surround` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/yatki.vscode-surround.svg?&logo=visualstudiocode&color=A3BE8C) |
+| `jock.svg` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/jock.svg.svg?&logo=visualstudiocode&color=A3BE8C) |
+| `1YiB.svelte-bundle` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/1YiB.svelte-bundle-surround.svg?&logo=visualstudiocode&color=A3BE8C) |
 
 
 <br />

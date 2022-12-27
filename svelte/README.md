@@ -19,15 +19,15 @@
 
 ### about
 
-- svelte
-    - includes the following extensions:
 
+- bundle of svelte extensions for better development , all extensions packaged are given below.
 
-        | Extension                        	| Stats                                                                                                                                                    	|
-        |----------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------	|
-        | `svelte.svelte-vscode`             	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/svelte.svelte-vscode.svg?&logo=visualstudiocode&color=A3BE8C)             	|
-        | `ardenivanov.svelte-intellisense`  	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/ardenivanov.svelte-intellisense.svg?&logo=visualstudiocode&color=A3BE8C)  	|
-        | `fivethree.vscode-svelte-snippets` 	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/fivethree.vscode-svelte-snippets.svg?&logo=visualstudiocode&color=A3BE8C) 	|
+| Extension | Stats |
+|---|---|
+| `svelte.svelte-vscode` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/svelte.svelte-vscode.svg?&logo=visualstudiocode&color=A3BE8C) |
+| `ardenivanov.svelte-intellisense` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/ardenivanov.svelte-intellisense.svg?&logo=visualstudiocode&color=A3BE8C) |
+| `fivethree.vscode-svelte-snippets` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/fivethree.vscode-svelte-snippets.svg?&logo=visualstudiocode&color=A3BE8C) |
+
 
 <br />
 

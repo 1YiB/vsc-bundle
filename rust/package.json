@@ -1,13 +1,13 @@
 {
-  "name": "rust",
-  "displayName": "rust-bundle",
+  "name": "rust-bundle",
+  "displayName": "rust",
   "version": "1.0.0",
   "publisher": "1YiB",
   "description": "extensions for rust",
   "categories": [
     "Extension Packs"
   ],
-  "icon": "rust/assets/icon.png",
+  "icon": "assets/icon.png",
   "galleryBanner": {
     "color": "#000000",
     "theme": "dark"

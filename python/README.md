@@ -19,15 +19,16 @@
 
 ### about
 
-- python
-    - includes the following extensions:
+
+- bundle of python extensions for better development , all extensions packaged are given below.
 
 
-        | Extension               	| Stats                                                                                                                                           	|
-        |-------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------	|
-        | `ms-python.python`        	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/ms-python.python.svg?&logo=visualstudiocode&color=A3BE8C)        	|
-        | `EricSia.pythonsnippets3` 	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/EricSia.pythonsnippets3.svg?&logo=visualstudiocode&color=A3BE8C) 	|
-        | `njpwerner.autodocstring` 	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/njpwerner.autodocstring.svg?&logo=visualstudiocode&color=A3BE8C) 	|
+| Extension | Stats |
+|---|---|
+| `ms-python.python` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/ms-python.python.svg?&logo=visualstudiocode&color=A3BE8C) |
+| `EricSia.pythonsnippets3` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/EricSia.pythonsnippets3.svg?&logo=visualstudiocode&color=A3BE8C) |
+| `njpwerner.autodocstring` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/njpwerner.autodocstring.svg?&logo=visualstudiocode&color=A3BE8C) |
+
 
 <br />
 

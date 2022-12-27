@@ -7,7 +7,7 @@
   "categories": [
     "Extension Packs"
   ],
-  "icon": "vscode/assets/icon.png",
+  "icon": "assets/icon.png",
   "galleryBanner": {
     "color": "#007ACC",
     "theme": "dark"

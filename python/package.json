@@ -1,13 +1,13 @@
 {
-  "name": "python",
-  "displayName": "python-bundle",
+  "name": "python-bundle",
+  "displayName": "python",
   "version": "1.0.0",
   "publisher": "1YiB",
   "description": "extensions for python",
   "categories": [
     "Extension Packs"
   ],
-  "icon": "python/assets/icon.png",
+  "icon": "assets/icon.png",
   "galleryBanner": {
     "color": "#3776AB",
     "theme": "dark"

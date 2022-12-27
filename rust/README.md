@@ -20,15 +20,16 @@
 
 ### about
 
-- rust
-    - includes the following extensions:
+
+- bundle of rust extensions for better development , all extensions packaged are given below.
 
 
-        | Extension               	| Stats                                                                                                                                           	|
-        |-------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------	|
-        | `rust-lang.rust-analyzer` 	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/rust-lang.rust-analyzer.svg?&logo=visualstudiocode&color=A3BE8C) 	|
-        | `serayuzgur.crates`       	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/serayuzgur.crates.svg?&logo=visualstudiocode&color=A3BE8C)       	|
-        | `njpwerner.autodocstring` 	| ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/njpwerner.autodocstring.svg?&logo=visualstudiocode&color=A3BE8C) 	|
+| Extension | Stats |
+|---|---|
+| `rust-lang.rust-analyzer` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/rust-lang.rust-analyzer.svg?&logo=visualstudiocode&color=A3BE8C) |
+| `serayuzgur.crates` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/serayuzgur.crates.svg?&logo=visualstudiocode&color=A3BE8C) |
+| `njpwerner.autodocstring` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/njpwerner.autodocstring.svg?&logo=visualstudiocode&color=A3BE8C) |
+
 
 <br />
 

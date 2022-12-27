@@ -1,13 +1,13 @@
 {
-  "name": "nodejs",
-  "displayName": "nodejs-bundle",
+  "name": "nodejs-bundle",
+  "displayName": "nodejs",
   "version": "1.0.0",
   "publisher": "1YiB",
-  "description": "null",
+  "description": "extensions for nodejs",
   "categories": [
     "Extension Packs"
   ],
-  "icon": "nodejs/assets/icon.png",
+  "icon": "assets/icon.png",
   "galleryBanner": {
     "color": "#339933",
     "theme": "dark"
